@@ -1,4 +1,4 @@
-# # Genesis - Real Estate Scraper & AI Assistant
+ # Genesis - Real Estate Scraper & AI Assistant
 
  Real Estate using RAG is a  comprehensive tool for scraping real estate listings, performing financial "Buy vs. Rent" analysis, and interacting with the data using an AI-powered RAG (Retrieval-Augmented Generation) system. Built with Streamlit, it offers a user-friendly interface to analyze property markets effectively.
 
