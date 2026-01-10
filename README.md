@@ -26,7 +26,6 @@
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Rakshit1236/Real_Estate_Analyser_Genisies
-cd Genisis
 ```
 
 ### 2. Create a Virtual Environment
