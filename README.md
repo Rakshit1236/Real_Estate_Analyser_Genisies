@@ -23,6 +23,10 @@
 
 ## 🛠️ Installation & Setup
 
+### Visit (live streamlit): https://genesis-sneha.streamlit.app/
+
+#or
+
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Rakshit1236/Real_Estate_Analyser_Genisies
