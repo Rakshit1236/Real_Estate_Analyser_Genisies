@@ -25,7 +25,7 @@
 
 ### Visit (live streamlit): https://genesis-sneha.streamlit.app/
 
-#or
+# or
 
 ### 1. Clone the Repository
 ```bash
